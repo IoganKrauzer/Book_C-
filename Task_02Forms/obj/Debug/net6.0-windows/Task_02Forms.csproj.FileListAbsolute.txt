@@ -1,0 +1,15 @@
+C:\Users\Nazariel\Desktop\Geek Brains\Book_C#\Task_02Forms\bin\Debug\net6.0-windows\Task_02Forms.exe
+C:\Users\Nazariel\Desktop\Geek Brains\Book_C#\Task_02Forms\bin\Debug\net6.0-windows\Task_02Forms.deps.json
+C:\Users\Nazariel\Desktop\Geek Brains\Book_C#\Task_02Forms\bin\Debug\net6.0-windows\Task_02Forms.runtimeconfig.json
+C:\Users\Nazariel\Desktop\Geek Brains\Book_C#\Task_02Forms\bin\Debug\net6.0-windows\Task_02Forms.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Book_C#\Task_02Forms\bin\Debug\net6.0-windows\Task_02Forms.pdb
+C:\Users\Nazariel\Desktop\Geek Brains\Book_C#\Task_02Forms\obj\Debug\net6.0-windows\Task_02Forms.csproj.AssemblyReference.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Book_C#\Task_02Forms\obj\Debug\net6.0-windows\Task_02Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazariel\Desktop\Geek Brains\Book_C#\Task_02Forms\obj\Debug\net6.0-windows\Task_02Forms.AssemblyInfoInputs.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Book_C#\Task_02Forms\obj\Debug\net6.0-windows\Task_02Forms.AssemblyInfo.cs
+C:\Users\Nazariel\Desktop\Geek Brains\Book_C#\Task_02Forms\obj\Debug\net6.0-windows\Task_02Forms.csproj.CoreCompileInputs.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Book_C#\Task_02Forms\obj\Debug\net6.0-windows\Task_02Forms.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Book_C#\Task_02Forms\obj\Debug\net6.0-windows\refint\Task_02Forms.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Book_C#\Task_02Forms\obj\Debug\net6.0-windows\Task_02Forms.pdb
+C:\Users\Nazariel\Desktop\Geek Brains\Book_C#\Task_02Forms\obj\Debug\net6.0-windows\Task_02Forms.genruntimeconfig.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Book_C#\Task_02Forms\obj\Debug\net6.0-windows\ref\Task_02Forms.dll
